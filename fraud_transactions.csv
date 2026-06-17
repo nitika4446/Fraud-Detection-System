@@ -1,0 +1,1001 @@
+Transaction_ID,Amount,Age,Transaction_Type,Device,Location,Fraud
+TXN100000,22.47,21,Online,Desktop,Mumbai,0
+TXN100001,122.36,65,ATM Withdrawal,Desktop,Sydney,0
+TXN100002,148.67,58,Online,Tablet,Singapore,0
+TXN100003,10.05,73,Online,Desktop,Dubai,0
+TXN100004,5.29,25,ATM Withdrawal,Tablet,London,0
+TXN100005,80.46,43,Online,Mobile,Dubai,0
+TXN100006,36.17,48,POS,ATM,Toronto,0
+TXN100007,50.09,25,Bank Transfer,Mobile,Dubai,0
+TXN100008,106.33,66,ATM Withdrawal,Desktop,New York,0
+TXN100009,74.7,27,ATM Withdrawal,Desktop,Dubai,0
+TXN100010,30.63,69,ATM Withdrawal,Mobile,London,0
+TXN100011,35.61,60,Online,Tablet,Toronto,0
+TXN100012,45.15,62,Bank Transfer,Desktop,Mumbai,0
+TXN100013,518.23,40,Online,Mobile,Mumbai,1
+TXN100014,139.81,55,Online,Desktop,New York,0
+TXN100015,11.76,20,POS,Mobile,Dubai,0
+TXN100016,88.25,50,POS,Mobile,Mumbai,0
+TXN100017,16.91,38,Online,Desktop,London,0
+TXN100018,103.07,20,Online,Desktop,Toronto,0
+TXN100019,16.81,65,Online,Mobile,London,0
+TXN100020,105.92,64,Online,Mobile,Dubai,0
+TXN100021,15.21,57,POS,Mobile,London,0
+TXN100022,206.22,64,POS,Mobile,London,0
+TXN100023,62.27,52,Bank Transfer,Mobile,London,0
+TXN100024,136.44,23,Online,Tablet,Mumbai,0
+TXN100025,28.38,18,POS,Tablet,Singapore,0
+TXN100026,200.18,69,ATM Withdrawal,Desktop,Singapore,0
+TXN100027,95.08,23,Online,Mobile,Dubai,1
+TXN100028,47.11,67,ATM Withdrawal,Tablet,London,0
+TXN100029,2.91,30,Online,Mobile,Dubai,0
+TXN100030,30.23,47,POS,Tablet,Sydney,0
+TXN100031,1006.13,33,Online,Mobile,Sydney,0
+TXN100032,56.38,36,Online,Mobile,Mumbai,0
+TXN100033,12.24,29,Online,Mobile,London,0
+TXN100034,55.23,43,Bank Transfer,Mobile,Singapore,0
+TXN100035,54.32,72,Online,Desktop,London,0
+TXN100036,244.29,39,Bank Transfer,Mobile,London,0
+TXN100037,111.54,55,POS,Mobile,Toronto,0
+TXN100038,60.49,26,Online,Mobile,Sydney,0
+TXN100039,143.78,44,Bank Transfer,Desktop,Sydney,0
+TXN100040,16.91,58,Online,Mobile,Toronto,0
+TXN100041,14.55,26,Online,Mobile,Mumbai,0
+TXN100042,312.29,39,POS,Desktop,Singapore,0
+TXN100043,157.68,67,Online,Mobile,Mumbai,1
+TXN100044,75.79,23,Bank Transfer,Mobile,Toronto,0
+TXN100045,17.95,24,POS,Desktop,Toronto,0
+TXN100046,46.24,26,Online,Mobile,Dubai,0
+TXN100047,30.64,54,Online,Desktop,Sydney,0
+TXN100048,83.75,65,Online,Mobile,London,0
+TXN100049,227.58,21,Online,Desktop,Dubai,0
+TXN100050,12.83,36,POS,Desktop,Dubai,0
+TXN100051,53.09,44,Online,Mobile,Toronto,0
+TXN100052,41.83,71,ATM Withdrawal,Mobile,London,0
+TXN100053,42.41,63,Bank Transfer,Mobile,London,0
+TXN100054,46.78,70,Online,Desktop,Singapore,0
+TXN100055,464.82,49,ATM Withdrawal,Mobile,New York,0
+TXN100056,69.52,55,POS,Mobile,London,0
+TXN100057,131.55,71,POS,Mobile,Sydney,0
+TXN100058,69.58,32,POS,Mobile,Mumbai,0
+TXN100059,33.74,34,ATM Withdrawal,Desktop,London,0
+TXN100060,73.41,19,Online,Desktop,Toronto,0
+TXN100061,34.11,35,POS,Mobile,Singapore,0
+TXN100062,69.94,41,ATM Withdrawal,Mobile,London,0
+TXN100063,39.09,61,Online,Tablet,New York,0
+TXN100064,28.89,63,POS,Desktop,London,0
+TXN100065,141.47,56,POS,ATM,Singapore,0
+TXN100066,22.14,53,Online,Mobile,Mumbai,0
+TXN100067,14.27,35,Online,Desktop,Dubai,0
+TXN100068,15.25,51,Online,Mobile,Dubai,0
+TXN100069,45.64,24,Online,Desktop,London,0
+TXN100070,38.9,37,POS,Tablet,New York,0
+TXN100071,85.97,21,Online,Tablet,Sydney,0
+TXN100072,16.08,63,Online,ATM,Singapore,0
+TXN100073,179.06,35,POS,Mobile,Dubai,0
+TXN100074,237.81,18,POS,Desktop,Sydney,0
+TXN100075,49.23,57,POS,Mobile,New York,0
+TXN100076,289.42,55,POS,Desktop,New York,0
+TXN100077,104.65,25,POS,Mobile,Sydney,0
+TXN100078,273.45,23,POS,Mobile,Mumbai,0
+TXN100079,200.35,44,Online,Mobile,Dubai,0
+TXN100080,46.2,18,ATM Withdrawal,Mobile,New York,0
+TXN100081,38.52,23,POS,Mobile,Mumbai,0
+TXN100082,80.31,55,Online,Desktop,Toronto,0
+TXN100083,34.39,56,Online,Mobile,Dubai,0
+TXN100084,146.88,56,POS,Desktop,Toronto,0
+TXN100085,110.7,23,POS,Mobile,Singapore,0
+TXN100086,55.86,26,Online,Mobile,New York,1
+TXN100087,44.23,24,POS,Mobile,Sydney,0
+TXN100088,423.59,27,POS,ATM,London,0
+TXN100089,51.06,60,ATM Withdrawal,Mobile,Sydney,0
+TXN100090,11.0,29,Online,Tablet,London,0
+TXN100091,77.38,32,ATM Withdrawal,Mobile,Toronto,0
+TXN100092,207.64,47,ATM Withdrawal,Desktop,London,0
+TXN100093,46.78,54,POS,Desktop,Mumbai,0
+TXN100094,44.57,55,Online,Mobile,Singapore,0
+TXN100095,32.01,60,Online,Mobile,New York,0
+TXN100096,76.77,72,Online,Desktop,Dubai,0
+TXN100097,88.3,58,Online,Desktop,Singapore,0
+TXN100098,98.12,37,POS,Tablet,London,0
+TXN100099,56.31,59,Online,Mobile,Mumbai,0
+TXN100100,11.43,40,Online,Mobile,Mumbai,0
+TXN100101,127.3,42,Online,Desktop,London,0
+TXN100102,17.27,67,POS,Desktop,Mumbai,0
+TXN100103,84.33,19,Online,Mobile,London,0
+TXN100104,41.01,30,Online,Mobile,Sydney,0
+TXN100105,38.97,73,ATM Withdrawal,Desktop,New York,0
+TXN100106,50.04,43,Online,Mobile,Mumbai,0
+TXN100107,148.9,26,Online,ATM,Singapore,1
+TXN100108,46.68,43,Online,Desktop,New York,0
+TXN100109,92.7,20,Online,Tablet,Mumbai,0
+TXN100110,70.68,41,Online,Mobile,Toronto,0
+TXN100111,6.58,65,Online,Mobile,Dubai,0
+TXN100112,38.38,48,Online,Mobile,Singapore,1
+TXN100113,36.53,61,ATM Withdrawal,Mobile,Toronto,0
+TXN100114,34.14,38,POS,Tablet,Singapore,0
+TXN100115,47.89,32,Online,Desktop,London,0
+TXN100116,83.83,36,POS,Desktop,New York,0
+TXN100117,728.12,42,Online,ATM,London,1
+TXN100118,11.41,57,Online,Tablet,Mumbai,0
+TXN100119,43.08,19,ATM Withdrawal,Mobile,New York,0
+TXN100120,36.29,59,Online,Tablet,London,0
+TXN100121,38.17,28,POS,Tablet,Toronto,0
+TXN100122,53.94,39,Online,Mobile,Toronto,0
+TXN100123,43.03,68,POS,Desktop,Toronto,0
+TXN100124,46.4,37,POS,Tablet,Toronto,0
+TXN100125,22.45,36,Online,Mobile,London,0
+TXN100126,18.69,25,ATM Withdrawal,Tablet,Sydney,0
+TXN100127,12.47,20,Online,Mobile,Toronto,0
+TXN100128,36.34,49,Bank Transfer,Tablet,Mumbai,0
+TXN100129,23.45,39,Online,Mobile,New York,0
+TXN100130,9.25,42,POS,Mobile,Mumbai,0
+TXN100131,143.88,23,Online,Mobile,Sydney,0
+TXN100132,150.31,21,POS,Mobile,Dubai,0
+TXN100133,1151.39,49,Bank Transfer,Mobile,Singapore,1
+TXN100134,261.05,29,POS,Mobile,Singapore,0
+TXN100135,28.82,55,POS,Desktop,Dubai,0
+TXN100136,19.62,59,Bank Transfer,Tablet,Toronto,0
+TXN100137,148.82,31,Online,Tablet,Toronto,0
+TXN100138,38.39,42,Online,Mobile,Sydney,0
+TXN100139,21.77,74,Online,Desktop,London,0
+TXN100140,61.36,46,Online,Desktop,New York,0
+TXN100141,342.72,24,Bank Transfer,Tablet,Dubai,0
+TXN100142,168.68,50,Bank Transfer,Tablet,Sydney,0
+TXN100143,9.54,28,ATM Withdrawal,Desktop,Mumbai,0
+TXN100144,56.75,43,ATM Withdrawal,Mobile,New York,0
+TXN100145,146.56,20,Online,Desktop,Mumbai,0
+TXN100146,44.61,47,POS,Mobile,Mumbai,0
+TXN100147,459.09,57,Online,Tablet,London,0
+TXN100148,17.08,18,Online,Mobile,Mumbai,0
+TXN100149,45.12,64,POS,Tablet,Singapore,0
+TXN100150,64.84,65,Online,Mobile,New York,0
+TXN100151,33.14,60,Online,Mobile,Singapore,0
+TXN100152,422.46,28,Online,ATM,Toronto,1
+TXN100153,80.87,55,Online,Mobile,Mumbai,0
+TXN100154,132.48,72,POS,Mobile,Sydney,0
+TXN100155,11.14,61,POS,Desktop,Mumbai,0
+TXN100156,308.68,42,Online,ATM,Sydney,0
+TXN100157,20.83,46,ATM Withdrawal,Desktop,Mumbai,0
+TXN100158,10.15,52,Online,Desktop,Singapore,0
+TXN100159,18.3,29,POS,Desktop,New York,0
+TXN100160,35.74,38,ATM Withdrawal,Desktop,New York,0
+TXN100161,31.31,30,Online,Mobile,London,0
+TXN100162,36.95,56,Bank Transfer,Mobile,Mumbai,0
+TXN100163,346.48,74,Online,Mobile,Toronto,0
+TXN100164,125.34,63,Online,Desktop,London,0
+TXN100165,32.37,22,Online,Mobile,Dubai,0
+TXN100166,9.42,24,Online,Tablet,Singapore,0
+TXN100167,35.7,50,Bank Transfer,Mobile,Dubai,0
+TXN100168,124.96,61,POS,Mobile,Sydney,0
+TXN100169,177.22,29,Online,Mobile,London,0
+TXN100170,80.11,27,POS,ATM,London,0
+TXN100171,733.39,68,POS,Tablet,Sydney,0
+TXN100172,84.3,44,POS,Desktop,Singapore,0
+TXN100173,72.55,56,Online,Desktop,Singapore,1
+TXN100174,25.04,23,ATM Withdrawal,ATM,London,0
+TXN100175,18.94,26,POS,Desktop,Mumbai,0
+TXN100176,42.72,71,Bank Transfer,Mobile,London,0
+TXN100177,13.81,53,POS,Mobile,Toronto,0
+TXN100178,77.06,45,POS,Mobile,London,0
+TXN100179,83.11,44,POS,Mobile,Mumbai,0
+TXN100180,40.1,37,ATM Withdrawal,Mobile,Toronto,0
+TXN100181,119.68,37,Online,Desktop,Toronto,0
+TXN100182,7.36,60,Online,Desktop,Singapore,0
+TXN100183,233.94,70,POS,Desktop,London,0
+TXN100184,78.69,34,POS,Mobile,New York,0
+TXN100185,126.23,25,POS,Mobile,New York,0
+TXN100186,68.92,19,Online,Mobile,Toronto,0
+TXN100187,240.2,67,POS,Mobile,Sydney,0
+TXN100188,89.19,25,POS,Mobile,Dubai,0
+TXN100189,22.35,44,Online,Mobile,Dubai,0
+TXN100190,80.07,41,POS,Desktop,Toronto,0
+TXN100191,3.77,70,ATM Withdrawal,Mobile,Dubai,0
+TXN100192,22.9,23,Online,Mobile,Dubai,0
+TXN100193,46.37,70,ATM Withdrawal,Mobile,Sydney,0
+TXN100194,33.64,44,POS,ATM,Toronto,0
+TXN100195,7.44,57,Bank Transfer,Mobile,New York,0
+TXN100196,27.14,30,ATM Withdrawal,Mobile,Toronto,0
+TXN100197,22.69,31,ATM Withdrawal,Mobile,Mumbai,0
+TXN100198,85.31,50,Online,Desktop,London,0
+TXN100199,102.06,33,ATM Withdrawal,Desktop,Toronto,0
+TXN100200,84.0,18,POS,Desktop,Toronto,0
+TXN100201,103.28,23,Online,Mobile,Singapore,0
+TXN100202,24.97,62,ATM Withdrawal,Desktop,London,0
+TXN100203,19.45,40,POS,Desktop,Toronto,0
+TXN100204,39.4,74,Online,Mobile,Singapore,0
+TXN100205,32.44,56,Online,Mobile,Singapore,0
+TXN100206,22.13,73,Online,Tablet,London,0
+TXN100207,213.46,38,ATM Withdrawal,Mobile,New York,0
+TXN100208,139.15,30,Bank Transfer,ATM,New York,0
+TXN100209,8.48,71,Online,Desktop,Dubai,0
+TXN100210,120.7,28,ATM Withdrawal,Desktop,New York,0
+TXN100211,20.3,25,Online,Mobile,Sydney,0
+TXN100212,358.59,50,Online,Mobile,Toronto,0
+TXN100213,48.54,48,Online,Mobile,Sydney,0
+TXN100214,75.14,40,POS,Tablet,New York,0
+TXN100215,103.29,46,Online,Desktop,Mumbai,0
+TXN100216,50.32,71,Online,Tablet,Dubai,0
+TXN100217,16.92,40,Online,Desktop,Toronto,0
+TXN100218,15.23,30,POS,Mobile,New York,0
+TXN100219,43.75,71,ATM Withdrawal,Mobile,Sydney,0
+TXN100220,19.05,36,Online,Mobile,Sydney,0
+TXN100221,72.11,68,POS,ATM,Toronto,0
+TXN100222,63.82,25,Online,Mobile,Sydney,1
+TXN100223,58.42,36,POS,Mobile,Sydney,0
+TXN100224,27.77,65,Online,Desktop,Singapore,0
+TXN100225,115.64,65,ATM Withdrawal,Desktop,London,0
+TXN100226,42.38,29,Bank Transfer,Mobile,London,0
+TXN100227,78.91,22,Online,Desktop,New York,0
+TXN100228,29.31,34,POS,Desktop,Sydney,0
+TXN100229,31.86,60,POS,Mobile,Toronto,0
+TXN100230,274.85,33,Online,Tablet,Singapore,0
+TXN100231,151.88,48,Online,Mobile,London,1
+TXN100232,228.88,54,Online,Mobile,Sydney,0
+TXN100233,12.75,73,Online,Desktop,Toronto,0
+TXN100234,24.2,34,ATM Withdrawal,Mobile,Singapore,0
+TXN100235,36.36,74,POS,Desktop,London,0
+TXN100236,30.24,67,Online,Mobile,Mumbai,0
+TXN100237,40.99,47,Online,Mobile,Singapore,1
+TXN100238,37.22,64,Online,Mobile,London,0
+TXN100239,19.81,68,Online,Tablet,Singapore,0
+TXN100240,139.85,26,POS,ATM,Dubai,0
+TXN100241,7.03,19,ATM Withdrawal,Mobile,London,0
+TXN100242,120.4,55,POS,Mobile,Dubai,0
+TXN100243,56.76,48,ATM Withdrawal,Mobile,London,0
+TXN100244,39.08,34,Online,Tablet,Dubai,0
+TXN100245,9.71,41,Online,Mobile,Singapore,0
+TXN100246,19.29,71,ATM Withdrawal,Mobile,Sydney,0
+TXN100247,63.98,60,POS,Mobile,New York,0
+TXN100248,16.51,27,Online,Mobile,Toronto,0
+TXN100249,71.07,31,POS,Tablet,Sydney,0
+TXN100250,37.98,60,ATM Withdrawal,ATM,Singapore,0
+TXN100251,255.35,64,Bank Transfer,ATM,Mumbai,1
+TXN100252,46.94,67,POS,Mobile,Singapore,0
+TXN100253,39.97,29,Online,Mobile,New York,0
+TXN100254,92.76,61,Online,Mobile,Singapore,0
+TXN100255,115.68,41,ATM Withdrawal,Mobile,Toronto,0
+TXN100256,278.37,38,Bank Transfer,Desktop,London,0
+TXN100257,229.59,50,Online,Desktop,Sydney,0
+TXN100258,61.51,26,ATM Withdrawal,Tablet,Toronto,0
+TXN100259,14.85,70,Online,Desktop,Mumbai,0
+TXN100260,57.87,41,Bank Transfer,Mobile,Singapore,0
+TXN100261,34.51,47,Online,Mobile,Toronto,0
+TXN100262,20.14,59,ATM Withdrawal,Mobile,Singapore,0
+TXN100263,63.78,71,POS,Desktop,Sydney,0
+TXN100264,71.55,55,POS,Tablet,London,0
+TXN100265,30.42,40,Online,Mobile,New York,0
+TXN100266,152.3,29,Bank Transfer,Mobile,London,0
+TXN100267,60.82,36,ATM Withdrawal,Tablet,London,0
+TXN100268,698.77,59,POS,Desktop,Mumbai,0
+TXN100269,202.26,60,POS,Mobile,New York,0
+TXN100270,161.63,65,Online,Desktop,Sydney,0
+TXN100271,270.91,25,ATM Withdrawal,Tablet,New York,0
+TXN100272,80.62,35,Bank Transfer,Desktop,Dubai,0
+TXN100273,37.78,43,ATM Withdrawal,Mobile,Sydney,0
+TXN100274,45.09,38,Online,Mobile,Sydney,0
+TXN100275,23.27,20,Online,Desktop,Dubai,0
+TXN100276,103.89,40,Bank Transfer,Mobile,Mumbai,0
+TXN100277,29.15,70,Online,Tablet,New York,0
+TXN100278,28.16,48,Online,Desktop,Dubai,0
+TXN100279,133.51,73,Online,Mobile,London,0
+TXN100280,23.63,29,Online,Mobile,London,0
+TXN100281,157.47,20,POS,Mobile,London,0
+TXN100282,32.15,63,ATM Withdrawal,Desktop,Sydney,0
+TXN100283,42.44,63,POS,Mobile,Dubai,0
+TXN100284,14.49,45,ATM Withdrawal,Tablet,Mumbai,0
+TXN100285,108.39,64,POS,Mobile,Toronto,0
+TXN100286,47.11,64,POS,Desktop,Dubai,0
+TXN100287,80.11,45,Online,Mobile,Mumbai,0
+TXN100288,356.68,30,Online,Mobile,Singapore,0
+TXN100289,46.21,50,Online,Mobile,Sydney,1
+TXN100290,76.39,44,ATM Withdrawal,Mobile,Mumbai,0
+TXN100291,147.78,38,Bank Transfer,Tablet,Singapore,0
+TXN100292,133.64,56,POS,Desktop,London,0
+TXN100293,17.86,25,POS,Mobile,Singapore,0
+TXN100294,148.39,19,Bank Transfer,Mobile,London,0
+TXN100295,165.01,43,Online,Mobile,London,0
+TXN100296,98.45,63,Online,Mobile,Singapore,0
+TXN100297,13.71,44,Online,Desktop,London,0
+TXN100298,39.8,37,POS,Mobile,Mumbai,0
+TXN100299,319.87,72,Online,Desktop,Singapore,0
+TXN100300,23.9,53,POS,Tablet,Dubai,0
+TXN100301,45.18,39,Online,Desktop,Toronto,0
+TXN100302,59.83,62,Online,Mobile,London,0
+TXN100303,30.13,72,POS,Mobile,London,0
+TXN100304,58.0,29,Online,Desktop,Sydney,0
+TXN100305,1.42,42,Online,Mobile,Mumbai,0
+TXN100306,56.42,33,Online,Mobile,Sydney,0
+TXN100307,207.72,72,Online,Mobile,London,0
+TXN100308,74.41,46,Online,Mobile,Mumbai,0
+TXN100309,28.42,27,Online,Tablet,New York,0
+TXN100310,15.16,50,POS,Mobile,Sydney,0
+TXN100311,38.02,63,Bank Transfer,Mobile,London,0
+TXN100312,17.18,51,ATM Withdrawal,Desktop,London,0
+TXN100313,95.44,28,Online,Desktop,Toronto,0
+TXN100314,166.43,39,Online,Desktop,Dubai,0
+TXN100315,435.71,41,Online,Desktop,Sydney,0
+TXN100316,23.26,55,POS,Mobile,Toronto,0
+TXN100317,30.85,66,Online,Desktop,Dubai,0
+TXN100318,17.46,71,ATM Withdrawal,Tablet,Dubai,0
+TXN100319,56.3,53,Online,Tablet,Toronto,0
+TXN100320,40.07,74,POS,Tablet,New York,0
+TXN100321,158.54,60,Bank Transfer,Mobile,Sydney,0
+TXN100322,129.52,24,Online,ATM,Singapore,0
+TXN100323,19.29,35,Online,Desktop,Toronto,0
+TXN100324,81.21,71,ATM Withdrawal,Mobile,London,0
+TXN100325,614.26,41,POS,Mobile,Mumbai,0
+TXN100326,58.68,35,POS,Mobile,Sydney,0
+TXN100327,46.04,68,Online,Desktop,Mumbai,0
+TXN100328,110.13,68,POS,Mobile,Toronto,0
+TXN100329,43.72,32,Online,Mobile,London,0
+TXN100330,51.58,72,Online,Mobile,Toronto,0
+TXN100331,84.7,20,ATM Withdrawal,Desktop,Sydney,0
+TXN100332,5.58,54,ATM Withdrawal,Mobile,Dubai,0
+TXN100333,4.89,27,Online,Mobile,Mumbai,0
+TXN100334,74.05,39,Bank Transfer,Mobile,Singapore,0
+TXN100335,58.36,36,POS,Mobile,Sydney,0
+TXN100336,21.96,66,ATM Withdrawal,Mobile,London,0
+TXN100337,19.91,60,ATM Withdrawal,Mobile,Sydney,0
+TXN100338,112.65,30,POS,Desktop,New York,0
+TXN100339,34.86,19,Online,ATM,Mumbai,0
+TXN100340,17.43,30,Online,Mobile,Sydney,0
+TXN100341,91.94,20,Bank Transfer,Desktop,Singapore,0
+TXN100342,34.64,48,POS,Mobile,New York,0
+TXN100343,78.01,36,Online,Mobile,Sydney,0
+TXN100344,110.16,54,POS,Mobile,New York,0
+TXN100345,59.87,72,POS,Tablet,Singapore,0
+TXN100346,73.44,26,Online,Desktop,Singapore,0
+TXN100347,267.27,29,Online,Tablet,Toronto,0
+TXN100348,106.21,59,Online,Tablet,Singapore,0
+TXN100349,129.8,67,Online,Desktop,Mumbai,0
+TXN100350,67.99,71,POS,Mobile,Mumbai,0
+TXN100351,263.32,30,POS,Mobile,Dubai,0
+TXN100352,155.92,71,POS,ATM,London,0
+TXN100353,45.09,66,POS,Mobile,Sydney,0
+TXN100354,63.6,55,Online,Tablet,Dubai,0
+TXN100355,13.78,67,Online,Desktop,Mumbai,0
+TXN100356,307.15,56,Bank Transfer,Mobile,Dubai,0
+TXN100357,22.46,43,Online,Mobile,London,0
+TXN100358,11.34,31,Online,Mobile,Dubai,0
+TXN100359,24.22,34,POS,Desktop,Toronto,0
+TXN100360,12.42,67,POS,Mobile,Mumbai,0
+TXN100361,4.9,63,POS,Mobile,London,0
+TXN100362,19.78,56,Online,Mobile,Singapore,0
+TXN100363,47.89,53,ATM Withdrawal,Desktop,Dubai,0
+TXN100364,126.28,58,ATM Withdrawal,Desktop,Mumbai,0
+TXN100365,82.49,60,Bank Transfer,Desktop,Sydney,0
+TXN100366,210.74,37,POS,Mobile,New York,0
+TXN100367,235.44,37,Online,Desktop,Sydney,0
+TXN100368,71.97,35,Online,Desktop,London,0
+TXN100369,135.45,25,Bank Transfer,Mobile,Mumbai,0
+TXN100370,52.42,57,Online,Tablet,New York,0
+TXN100371,20.57,66,Online,Desktop,Sydney,0
+TXN100372,82.63,61,ATM Withdrawal,Mobile,Dubai,0
+TXN100373,16.03,40,ATM Withdrawal,Tablet,Sydney,0
+TXN100374,62.04,56,POS,Mobile,London,0
+TXN100375,138.5,19,Online,Mobile,Sydney,0
+TXN100376,54.95,52,POS,Mobile,Toronto,0
+TXN100377,89.76,43,Online,Mobile,Toronto,0
+TXN100378,25.75,55,Online,Mobile,London,0
+TXN100379,32.98,20,POS,Tablet,New York,0
+TXN100380,18.87,43,Online,Desktop,Singapore,0
+TXN100381,36.04,56,ATM Withdrawal,ATM,Singapore,0
+TXN100382,91.03,38,POS,Desktop,Dubai,0
+TXN100383,26.34,38,Online,Desktop,Dubai,0
+TXN100384,43.65,35,ATM Withdrawal,Mobile,Singapore,0
+TXN100385,30.83,29,Online,Mobile,Toronto,0
+TXN100386,213.55,35,ATM Withdrawal,Tablet,Dubai,0
+TXN100387,103.04,60,Online,Desktop,Mumbai,0
+TXN100388,176.02,23,Bank Transfer,Mobile,London,1
+TXN100389,55.26,28,Online,Mobile,New York,0
+TXN100390,253.6,36,Online,Mobile,Dubai,0
+TXN100391,93.99,26,POS,Desktop,Singapore,0
+TXN100392,5.36,26,POS,Desktop,Dubai,0
+TXN100393,126.51,57,Online,Mobile,Singapore,0
+TXN100394,69.09,73,Online,Desktop,Sydney,0
+TXN100395,41.47,55,ATM Withdrawal,Mobile,Sydney,0
+TXN100396,41.85,64,POS,Mobile,Dubai,0
+TXN100397,78.41,44,POS,Mobile,London,0
+TXN100398,128.38,39,Online,Desktop,London,0
+TXN100399,503.81,64,Online,Mobile,New York,1
+TXN100400,35.58,48,POS,Desktop,New York,0
+TXN100401,378.88,35,Online,Mobile,Mumbai,0
+TXN100402,24.86,24,Online,Desktop,Dubai,0
+TXN100403,21.3,68,Online,Mobile,Toronto,0
+TXN100404,29.55,37,Bank Transfer,Mobile,Mumbai,0
+TXN100405,23.89,42,ATM Withdrawal,ATM,New York,0
+TXN100406,46.08,38,Online,Mobile,Mumbai,0
+TXN100407,173.35,70,POS,Mobile,Sydney,0
+TXN100408,102.65,59,POS,Desktop,Singapore,0
+TXN100409,84.34,29,Online,Mobile,Mumbai,0
+TXN100410,106.52,28,Online,Mobile,Singapore,0
+TXN100411,39.73,71,Online,Desktop,London,0
+TXN100412,50.41,64,POS,Mobile,Mumbai,0
+TXN100413,87.49,54,POS,Mobile,Mumbai,0
+TXN100414,69.69,65,Online,Tablet,Singapore,0
+TXN100415,53.86,72,Online,Mobile,Dubai,0
+TXN100416,190.9,71,ATM Withdrawal,Tablet,New York,0
+TXN100417,17.68,58,Bank Transfer,Tablet,Singapore,0
+TXN100418,134.0,37,POS,Desktop,Mumbai,0
+TXN100419,39.19,52,Online,Tablet,Toronto,0
+TXN100420,131.43,54,Online,Mobile,Mumbai,0
+TXN100421,16.19,23,Online,Mobile,Toronto,0
+TXN100422,97.59,27,POS,ATM,Singapore,0
+TXN100423,94.48,63,ATM Withdrawal,Desktop,New York,0
+TXN100424,8.75,59,ATM Withdrawal,Mobile,Mumbai,0
+TXN100425,23.99,64,Online,Mobile,Singapore,0
+TXN100426,37.27,55,Online,Mobile,Dubai,0
+TXN100427,39.06,72,Online,Mobile,Singapore,0
+TXN100428,97.47,61,Online,Mobile,Sydney,0
+TXN100429,49.54,45,Bank Transfer,Tablet,Mumbai,0
+TXN100430,34.07,49,Bank Transfer,ATM,Mumbai,0
+TXN100431,46.87,37,POS,Tablet,Toronto,0
+TXN100432,158.93,23,POS,Mobile,Mumbai,0
+TXN100433,160.17,23,Online,Mobile,Sydney,0
+TXN100434,179.67,58,ATM Withdrawal,Mobile,Toronto,0
+TXN100435,58.32,21,Bank Transfer,Mobile,New York,0
+TXN100436,36.2,66,ATM Withdrawal,Desktop,Sydney,0
+TXN100437,66.84,49,POS,Desktop,Singapore,0
+TXN100438,140.84,40,Online,Mobile,Mumbai,0
+TXN100439,15.14,44,ATM Withdrawal,Desktop,Mumbai,0
+TXN100440,18.46,51,ATM Withdrawal,Mobile,Sydney,0
+TXN100441,70.95,48,Online,Desktop,Singapore,0
+TXN100442,616.9,60,Online,Mobile,Sydney,1
+TXN100443,18.11,71,POS,Mobile,London,0
+TXN100444,46.56,66,POS,Tablet,New York,0
+TXN100445,40.7,44,Online,Desktop,Singapore,0
+TXN100446,7.87,40,ATM Withdrawal,Tablet,Toronto,0
+TXN100447,264.83,72,Bank Transfer,Mobile,New York,0
+TXN100448,9.92,56,Online,Desktop,New York,0
+TXN100449,14.63,66,ATM Withdrawal,Mobile,Toronto,0
+TXN100450,402.34,36,Bank Transfer,Desktop,Mumbai,0
+TXN100451,58.15,73,Online,Mobile,Singapore,0
+TXN100452,86.43,29,Bank Transfer,Mobile,Mumbai,0
+TXN100453,24.01,36,POS,Desktop,Dubai,0
+TXN100454,997.32,24,Online,Mobile,New York,0
+TXN100455,40.03,67,POS,Desktop,Toronto,0
+TXN100456,72.89,40,Online,Mobile,New York,0
+TXN100457,4.2,19,Online,Desktop,New York,0
+TXN100458,559.84,40,Online,Mobile,Singapore,0
+TXN100459,27.71,74,Online,Mobile,Mumbai,0
+TXN100460,62.96,34,POS,Mobile,Sydney,0
+TXN100461,12.86,25,POS,Desktop,Mumbai,0
+TXN100462,69.52,43,Bank Transfer,Desktop,Sydney,0
+TXN100463,68.59,55,Online,Mobile,London,1
+TXN100464,5.42,41,Online,Desktop,London,0
+TXN100465,21.46,28,ATM Withdrawal,Mobile,Toronto,0
+TXN100466,58.68,65,POS,Mobile,Dubai,0
+TXN100467,205.96,40,ATM Withdrawal,Desktop,Sydney,0
+TXN100468,35.07,33,Online,Tablet,Dubai,0
+TXN100469,23.44,65,Online,Mobile,Mumbai,0
+TXN100470,14.93,74,Online,Desktop,Sydney,0
+TXN100471,35.76,40,Online,Mobile,New York,0
+TXN100472,54.93,55,POS,Mobile,Singapore,0
+TXN100473,85.33,38,ATM Withdrawal,Mobile,Singapore,0
+TXN100474,27.91,50,Bank Transfer,Mobile,Dubai,0
+TXN100475,1517.59,46,Online,Mobile,Mumbai,1
+TXN100476,22.94,21,POS,Mobile,Dubai,0
+TXN100477,283.55,29,ATM Withdrawal,Tablet,Toronto,0
+TXN100478,93.8,71,Online,Desktop,London,0
+TXN100479,10.47,51,Online,Desktop,Mumbai,0
+TXN100480,69.08,43,POS,Mobile,Dubai,0
+TXN100481,10.1,68,Online,ATM,Toronto,0
+TXN100482,118.84,37,Online,Tablet,Dubai,0
+TXN100483,116.76,72,ATM Withdrawal,Mobile,Sydney,0
+TXN100484,85.83,70,POS,Mobile,Dubai,0
+TXN100485,68.87,54,Bank Transfer,Desktop,Sydney,0
+TXN100486,28.06,62,POS,Desktop,Mumbai,0
+TXN100487,32.52,63,POS,Desktop,New York,0
+TXN100488,80.23,40,POS,Desktop,London,0
+TXN100489,39.03,51,Bank Transfer,Desktop,London,0
+TXN100490,53.93,61,Online,Mobile,Singapore,0
+TXN100491,123.05,41,POS,Desktop,London,0
+TXN100492,21.74,24,Bank Transfer,Desktop,London,0
+TXN100493,37.41,59,POS,Desktop,Sydney,0
+TXN100494,121.95,53,Online,Desktop,Sydney,0
+TXN100495,48.49,38,Online,Mobile,Dubai,0
+TXN100496,38.75,48,ATM Withdrawal,Tablet,New York,0
+TXN100497,162.26,70,Bank Transfer,ATM,Toronto,0
+TXN100498,72.16,73,POS,Mobile,Toronto,0
+TXN100499,17.97,33,Online,Mobile,New York,0
+TXN100500,123.57,50,ATM Withdrawal,Desktop,Singapore,0
+TXN100501,64.07,52,Online,Mobile,Dubai,0
+TXN100502,62.69,60,ATM Withdrawal,Desktop,Toronto,0
+TXN100503,81.21,71,POS,Mobile,New York,0
+TXN100504,80.74,42,ATM Withdrawal,Tablet,Singapore,0
+TXN100505,200.57,66,ATM Withdrawal,Mobile,Dubai,1
+TXN100506,35.33,68,ATM Withdrawal,Tablet,Toronto,0
+TXN100507,15.62,46,POS,Mobile,Toronto,0
+TXN100508,204.8,42,Online,Mobile,Mumbai,1
+TXN100509,40.48,57,Online,Mobile,Dubai,0
+TXN100510,37.48,42,ATM Withdrawal,Tablet,Dubai,0
+TXN100511,4.98,20,Online,Mobile,London,0
+TXN100512,16.17,26,POS,Desktop,Singapore,0
+TXN100513,23.12,53,POS,Mobile,Mumbai,0
+TXN100514,337.19,40,Online,Desktop,Singapore,0
+TXN100515,103.51,63,Online,Mobile,Singapore,0
+TXN100516,65.14,44,POS,Mobile,Toronto,0
+TXN100517,72.66,43,Bank Transfer,Mobile,Toronto,0
+TXN100518,37.12,58,Online,Mobile,Dubai,1
+TXN100519,185.4,30,Online,Tablet,Mumbai,0
+TXN100520,69.02,37,ATM Withdrawal,Mobile,Dubai,0
+TXN100521,10.85,70,Online,Tablet,London,0
+TXN100522,12.91,71,Bank Transfer,Mobile,Mumbai,0
+TXN100523,5.52,36,POS,Mobile,Mumbai,0
+TXN100524,87.77,34,Online,Mobile,Singapore,0
+TXN100525,95.25,47,POS,Tablet,Mumbai,0
+TXN100526,37.34,40,POS,Desktop,Toronto,0
+TXN100527,103.95,73,POS,Tablet,Toronto,0
+TXN100528,273.4,46,POS,Mobile,New York,0
+TXN100529,50.41,40,Online,Desktop,Sydney,0
+TXN100530,15.73,21,Online,Mobile,New York,0
+TXN100531,128.76,74,Online,Mobile,London,0
+TXN100532,71.44,73,Online,Desktop,New York,0
+TXN100533,17.99,46,Online,Tablet,Sydney,0
+TXN100534,62.24,47,POS,Mobile,Dubai,0
+TXN100535,138.14,18,POS,Mobile,Dubai,0
+TXN100536,33.57,57,ATM Withdrawal,Desktop,New York,0
+TXN100537,108.91,68,POS,Mobile,Sydney,0
+TXN100538,85.44,25,Online,Desktop,London,0
+TXN100539,158.73,71,POS,Desktop,Dubai,0
+TXN100540,13.9,58,Online,Mobile,Dubai,0
+TXN100541,74.93,33,Online,Mobile,Dubai,0
+TXN100542,6.38,20,POS,Mobile,Toronto,0
+TXN100543,83.96,44,Bank Transfer,Mobile,New York,0
+TXN100544,55.8,56,Online,Mobile,Dubai,0
+TXN100545,181.33,37,ATM Withdrawal,Mobile,Dubai,0
+TXN100546,60.31,22,Online,ATM,Sydney,0
+TXN100547,56.21,26,POS,Mobile,Sydney,0
+TXN100548,70.04,67,Online,Mobile,London,0
+TXN100549,235.88,63,POS,ATM,Singapore,0
+TXN100550,68.9,36,Online,Tablet,Singapore,0
+TXN100551,65.71,21,POS,Mobile,New York,0
+TXN100552,5.74,27,Online,Mobile,New York,0
+TXN100553,243.46,52,Online,Desktop,Singapore,0
+TXN100554,59.38,25,Online,Desktop,Dubai,0
+TXN100555,95.16,67,POS,Mobile,Toronto,0
+TXN100556,127.03,48,POS,Desktop,Sydney,0
+TXN100557,57.58,51,Online,Mobile,Sydney,0
+TXN100558,130.51,26,ATM Withdrawal,Desktop,New York,0
+TXN100559,238.88,18,Online,Desktop,Singapore,0
+TXN100560,22.32,31,Online,Desktop,Toronto,0
+TXN100561,206.18,47,Online,Mobile,Mumbai,1
+TXN100562,25.72,63,POS,Tablet,Mumbai,0
+TXN100563,118.84,30,POS,Tablet,Toronto,0
+TXN100564,31.33,73,Online,Mobile,Singapore,0
+TXN100565,204.52,19,Online,Mobile,New York,0
+TXN100566,77.43,46,Bank Transfer,Desktop,Mumbai,0
+TXN100567,51.35,36,Online,Mobile,Singapore,0
+TXN100568,74.02,26,POS,Mobile,Toronto,0
+TXN100569,331.31,65,ATM Withdrawal,Mobile,Mumbai,1
+TXN100570,63.88,29,Online,Mobile,Sydney,0
+TXN100571,125.85,68,Online,Desktop,London,0
+TXN100572,57.07,51,Online,Desktop,Toronto,0
+TXN100573,72.9,41,Online,Mobile,Dubai,0
+TXN100574,123.19,62,Online,Tablet,Dubai,0
+TXN100575,82.58,70,ATM Withdrawal,Mobile,Dubai,0
+TXN100576,6.48,33,Bank Transfer,Desktop,Mumbai,0
+TXN100577,77.3,54,Online,Desktop,Singapore,0
+TXN100578,26.99,22,Online,Desktop,Sydney,0
+TXN100579,32.03,39,Online,Mobile,Mumbai,0
+TXN100580,119.38,69,Online,Mobile,New York,0
+TXN100581,51.94,63,Bank Transfer,Desktop,Dubai,0
+TXN100582,67.85,35,POS,Mobile,New York,0
+TXN100583,25.89,68,Online,Mobile,London,0
+TXN100584,39.68,49,ATM Withdrawal,Mobile,Mumbai,0
+TXN100585,125.15,40,ATM Withdrawal,Desktop,Singapore,0
+TXN100586,172.05,24,ATM Withdrawal,Mobile,Sydney,0
+TXN100587,35.14,39,Online,Desktop,Sydney,0
+TXN100588,23.94,63,ATM Withdrawal,Mobile,Dubai,0
+TXN100589,64.88,67,POS,Mobile,Mumbai,0
+TXN100590,15.07,62,POS,Desktop,Singapore,0
+TXN100591,183.86,21,ATM Withdrawal,ATM,Mumbai,0
+TXN100592,88.42,50,Online,Tablet,Dubai,0
+TXN100593,325.44,53,ATM Withdrawal,Mobile,Toronto,0
+TXN100594,7.87,53,Online,Mobile,Singapore,0
+TXN100595,51.74,61,ATM Withdrawal,Desktop,London,0
+TXN100596,57.54,46,POS,Mobile,Singapore,0
+TXN100597,195.28,39,Bank Transfer,Mobile,Singapore,0
+TXN100598,65.89,73,Online,Desktop,Toronto,0
+TXN100599,8.5,67,Bank Transfer,Desktop,Toronto,0
+TXN100600,20.93,60,POS,Desktop,Dubai,0
+TXN100601,16.63,29,Bank Transfer,Desktop,Mumbai,0
+TXN100602,176.13,71,Online,Mobile,Toronto,0
+TXN100603,118.79,26,ATM Withdrawal,Mobile,Toronto,0
+TXN100604,65.2,70,Bank Transfer,Mobile,Mumbai,0
+TXN100605,156.94,58,Online,Mobile,Sydney,1
+TXN100606,306.02,43,Bank Transfer,Tablet,New York,0
+TXN100607,32.15,23,ATM Withdrawal,Desktop,London,0
+TXN100608,111.48,34,Online,Mobile,Mumbai,0
+TXN100609,117.09,59,Online,Mobile,Sydney,0
+TXN100610,201.54,28,Online,Mobile,London,0
+TXN100611,11.78,59,Bank Transfer,Desktop,Dubai,0
+TXN100612,84.99,53,Bank Transfer,Mobile,Toronto,0
+TXN100613,19.39,51,Online,Mobile,Sydney,0
+TXN100614,12.22,73,Bank Transfer,Tablet,Singapore,0
+TXN100615,33.81,68,ATM Withdrawal,ATM,Sydney,0
+TXN100616,95.94,26,Online,ATM,Sydney,1
+TXN100617,27.43,36,Online,Desktop,Mumbai,0
+TXN100618,356.06,31,ATM Withdrawal,Mobile,Dubai,1
+TXN100619,67.94,40,Online,Desktop,Mumbai,0
+TXN100620,18.61,47,Online,Mobile,Singapore,0
+TXN100621,145.87,52,Online,Mobile,Mumbai,0
+TXN100622,33.46,67,ATM Withdrawal,Mobile,London,0
+TXN100623,85.29,19,Online,Tablet,Mumbai,0
+TXN100624,78.94,21,POS,Tablet,Dubai,0
+TXN100625,40.56,28,POS,Desktop,Sydney,0
+TXN100626,107.65,54,POS,Desktop,Singapore,0
+TXN100627,382.28,35,Online,Mobile,London,1
+TXN100628,67.47,53,Online,Desktop,Toronto,0
+TXN100629,77.06,67,Online,Desktop,Dubai,0
+TXN100630,118.28,22,Online,Mobile,London,1
+TXN100631,68.24,62,Online,Mobile,Mumbai,0
+TXN100632,86.01,42,Online,Mobile,Toronto,0
+TXN100633,38.44,46,Online,Desktop,Mumbai,0
+TXN100634,43.77,45,POS,Desktop,Dubai,0
+TXN100635,68.6,41,Online,Desktop,Singapore,0
+TXN100636,92.97,34,POS,Desktop,Singapore,0
+TXN100637,184.56,65,Online,Mobile,Singapore,1
+TXN100638,18.73,49,Online,Desktop,Toronto,0
+TXN100639,601.84,74,ATM Withdrawal,Desktop,London,1
+TXN100640,48.18,21,POS,Tablet,Mumbai,0
+TXN100641,40.96,64,POS,Mobile,Singapore,0
+TXN100642,23.57,44,POS,Desktop,New York,0
+TXN100643,522.9,47,Online,Mobile,New York,1
+TXN100644,95.02,42,POS,Desktop,Dubai,0
+TXN100645,20.86,50,POS,Mobile,Toronto,0
+TXN100646,441.56,70,Online,Mobile,Toronto,1
+TXN100647,38.02,56,POS,Desktop,Mumbai,0
+TXN100648,155.89,63,Online,Desktop,Toronto,0
+TXN100649,56.58,35,POS,Mobile,Toronto,0
+TXN100650,18.05,64,Online,Mobile,Dubai,0
+TXN100651,72.14,48,Online,Mobile,Dubai,0
+TXN100652,27.29,70,Online,Desktop,New York,0
+TXN100653,12.15,30,Online,Mobile,London,0
+TXN100654,788.2,53,Online,Mobile,London,1
+TXN100655,81.12,67,Online,Mobile,Dubai,0
+TXN100656,78.53,40,Online,Desktop,Mumbai,0
+TXN100657,229.28,72,Bank Transfer,Desktop,Sydney,1
+TXN100658,458.73,21,Online,Mobile,Dubai,0
+TXN100659,58.55,39,Online,Desktop,Sydney,0
+TXN100660,10.23,49,Online,Desktop,Toronto,0
+TXN100661,18.47,74,Online,Mobile,Sydney,0
+TXN100662,149.48,68,Online,Mobile,Dubai,1
+TXN100663,170.04,56,POS,Desktop,Sydney,0
+TXN100664,69.25,43,POS,Mobile,New York,0
+TXN100665,676.87,34,Online,Desktop,Singapore,0
+TXN100666,34.51,66,Online,Mobile,Mumbai,0
+TXN100667,114.15,41,POS,Mobile,New York,0
+TXN100668,23.63,73,POS,Desktop,Toronto,0
+TXN100669,211.36,67,Online,Mobile,Singapore,0
+TXN100670,55.23,42,Online,Tablet,Dubai,0
+TXN100671,16.83,30,Bank Transfer,Desktop,Sydney,0
+TXN100672,51.87,30,Online,Mobile,Toronto,0
+TXN100673,26.74,26,Online,Mobile,London,0
+TXN100674,42.98,55,ATM Withdrawal,Tablet,Toronto,0
+TXN100675,39.66,44,Online,Desktop,London,0
+TXN100676,19.38,48,Online,Mobile,London,0
+TXN100677,36.83,27,Bank Transfer,Tablet,Singapore,0
+TXN100678,38.26,23,ATM Withdrawal,Mobile,Singapore,0
+TXN100679,16.14,61,ATM Withdrawal,Mobile,Toronto,0
+TXN100680,183.56,70,Online,Mobile,Mumbai,0
+TXN100681,49.73,28,ATM Withdrawal,Desktop,Sydney,0
+TXN100682,114.44,51,Online,ATM,Toronto,0
+TXN100683,53.69,49,Online,Mobile,London,0
+TXN100684,15.73,58,Online,Desktop,Mumbai,0
+TXN100685,48.72,40,Online,Mobile,Dubai,0
+TXN100686,384.14,34,Online,Mobile,Mumbai,0
+TXN100687,45.87,20,Online,Mobile,Singapore,0
+TXN100688,20.35,28,Online,Mobile,Dubai,0
+TXN100689,39.31,73,Online,Mobile,London,0
+TXN100690,329.51,71,Online,Mobile,London,0
+TXN100691,51.01,46,POS,Tablet,London,0
+TXN100692,29.38,37,Online,Mobile,Dubai,0
+TXN100693,94.51,25,Online,Mobile,Toronto,0
+TXN100694,31.26,62,Online,Mobile,London,0
+TXN100695,68.87,34,Online,Desktop,Dubai,0
+TXN100696,19.41,33,Online,Mobile,London,0
+TXN100697,37.64,47,POS,Mobile,Singapore,0
+TXN100698,41.06,28,Bank Transfer,Mobile,Mumbai,0
+TXN100699,46.59,72,Online,Mobile,Singapore,0
+TXN100700,18.5,74,Online,Desktop,Toronto,0
+TXN100701,12.25,48,Online,Tablet,Mumbai,0
+TXN100702,9.93,22,ATM Withdrawal,Mobile,Mumbai,0
+TXN100703,80.24,57,Online,Mobile,Toronto,0
+TXN100704,189.61,24,POS,Mobile,London,0
+TXN100705,23.3,65,Online,ATM,New York,0
+TXN100706,47.43,69,Online,Desktop,Singapore,0
+TXN100707,29.6,70,Online,Mobile,London,0
+TXN100708,49.59,31,Online,Desktop,Toronto,0
+TXN100709,85.48,53,Online,Desktop,New York,0
+TXN100710,5.77,34,POS,Desktop,London,0
+TXN100711,39.5,51,Online,Mobile,Sydney,0
+TXN100712,11.23,30,Online,Tablet,New York,0
+TXN100713,6.87,33,Online,Mobile,Mumbai,0
+TXN100714,113.38,36,Online,Mobile,Singapore,0
+TXN100715,65.58,66,Online,Mobile,Toronto,0
+TXN100716,212.55,19,Online,Desktop,Toronto,0
+TXN100717,56.32,58,Online,Desktop,Singapore,0
+TXN100718,10.12,62,POS,Tablet,Singapore,0
+TXN100719,71.36,34,Online,Mobile,Toronto,0
+TXN100720,194.92,47,Online,Mobile,London,1
+TXN100721,36.8,70,Online,Mobile,Sydney,0
+TXN100722,93.51,36,Bank Transfer,Mobile,Sydney,0
+TXN100723,71.0,65,Online,Desktop,Toronto,0
+TXN100724,4.19,74,Online,Desktop,Toronto,0
+TXN100725,45.62,37,Online,Mobile,Singapore,0
+TXN100726,68.03,35,ATM Withdrawal,Desktop,New York,0
+TXN100727,165.06,66,Online,Tablet,Toronto,0
+TXN100728,59.77,71,Online,Tablet,New York,0
+TXN100729,28.38,39,POS,Mobile,Mumbai,0
+TXN100730,18.23,52,POS,Mobile,Mumbai,0
+TXN100731,66.54,43,Bank Transfer,ATM,Toronto,0
+TXN100732,175.09,63,POS,Mobile,Singapore,0
+TXN100733,9.17,47,Online,ATM,London,0
+TXN100734,43.58,64,POS,Mobile,Toronto,0
+TXN100735,22.32,43,Online,Mobile,Singapore,0
+TXN100736,35.47,23,Online,ATM,London,0
+TXN100737,21.62,62,POS,Mobile,Dubai,0
+TXN100738,17.93,50,Online,ATM,Mumbai,0
+TXN100739,124.03,27,POS,Mobile,Mumbai,0
+TXN100740,55.23,31,Online,Desktop,Sydney,0
+TXN100741,307.66,50,Online,Mobile,Toronto,0
+TXN100742,63.95,63,Online,Mobile,Toronto,0
+TXN100743,29.31,73,Online,Mobile,Singapore,0
+TXN100744,27.22,34,Online,Mobile,Mumbai,0
+TXN100745,109.86,32,Online,Mobile,London,0
+TXN100746,173.73,31,Online,Tablet,Mumbai,0
+TXN100747,19.79,51,Bank Transfer,ATM,Sydney,0
+TXN100748,47.84,29,POS,Mobile,Singapore,0
+TXN100749,8.32,26,POS,Tablet,London,0
+TXN100750,87.46,22,POS,Mobile,Sydney,0
+TXN100751,8.23,42,ATM Withdrawal,Mobile,New York,0
+TXN100752,190.5,25,Bank Transfer,Mobile,Sydney,0
+TXN100753,84.74,58,Online,Tablet,Dubai,0
+TXN100754,618.65,20,Online,Mobile,Mumbai,1
+TXN100755,86.93,42,ATM Withdrawal,Tablet,Dubai,0
+TXN100756,77.61,25,Online,Desktop,New York,0
+TXN100757,17.47,24,Online,Mobile,Mumbai,0
+TXN100758,75.84,58,Online,Mobile,Toronto,0
+TXN100759,8.75,45,Bank Transfer,Mobile,Singapore,0
+TXN100760,30.14,32,Online,Mobile,Singapore,0
+TXN100761,42.7,33,Online,Mobile,Dubai,0
+TXN100762,74.86,50,ATM Withdrawal,Desktop,Mumbai,0
+TXN100763,52.11,48,Online,Desktop,New York,0
+TXN100764,85.46,40,Bank Transfer,Desktop,Sydney,0
+TXN100765,71.69,60,Online,Mobile,Singapore,0
+TXN100766,126.7,23,Bank Transfer,Mobile,Mumbai,0
+TXN100767,387.57,64,Online,Mobile,Dubai,1
+TXN100768,315.35,63,Bank Transfer,ATM,New York,0
+TXN100769,182.34,27,Bank Transfer,Desktop,Singapore,0
+TXN100770,70.02,22,Online,Desktop,New York,0
+TXN100771,591.46,29,POS,Desktop,London,0
+TXN100772,27.18,62,POS,Desktop,Dubai,0
+TXN100773,64.35,23,POS,Desktop,Sydney,0
+TXN100774,12.4,66,POS,Mobile,Sydney,0
+TXN100775,88.14,22,POS,Mobile,Toronto,0
+TXN100776,104.32,51,Online,Desktop,Sydney,0
+TXN100777,23.03,60,ATM Withdrawal,Mobile,Dubai,0
+TXN100778,47.76,40,Online,Tablet,Mumbai,0
+TXN100779,60.28,21,ATM Withdrawal,Mobile,Singapore,0
+TXN100780,213.29,23,Online,Desktop,Dubai,0
+TXN100781,36.41,73,Online,Mobile,Sydney,0
+TXN100782,138.03,26,Online,Tablet,Mumbai,0
+TXN100783,44.47,49,Online,Mobile,Mumbai,0
+TXN100784,11.01,48,Online,Desktop,Singapore,0
+TXN100785,59.77,38,POS,Tablet,Toronto,0
+TXN100786,897.26,66,Online,Mobile,Sydney,1
+TXN100787,29.13,35,ATM Withdrawal,Desktop,Mumbai,0
+TXN100788,41.08,66,POS,Mobile,London,0
+TXN100789,98.58,21,POS,Desktop,New York,0
+TXN100790,31.71,23,Online,Desktop,Dubai,0
+TXN100791,92.25,61,POS,Desktop,Dubai,0
+TXN100792,945.47,39,ATM Withdrawal,Mobile,Sydney,1
+TXN100793,43.28,32,Bank Transfer,Desktop,New York,0
+TXN100794,428.5,73,ATM Withdrawal,Desktop,Singapore,0
+TXN100795,233.03,49,Online,Tablet,New York,0
+TXN100796,55.37,65,Online,Mobile,Sydney,0
+TXN100797,79.78,72,Bank Transfer,Desktop,London,0
+TXN100798,47.37,70,Bank Transfer,Desktop,Toronto,0
+TXN100799,1311.4,29,Online,Mobile,Singapore,0
+TXN100800,25.7,29,Online,Mobile,Singapore,0
+TXN100801,522.06,32,POS,Mobile,Singapore,1
+TXN100802,190.18,39,ATM Withdrawal,Mobile,Mumbai,0
+TXN100803,48.29,42,POS,Desktop,Mumbai,0
+TXN100804,88.85,35,Online,Tablet,New York,0
+TXN100805,9.41,31,Bank Transfer,ATM,Mumbai,0
+TXN100806,21.86,30,Online,Mobile,London,0
+TXN100807,16.69,32,POS,Mobile,Mumbai,0
+TXN100808,222.25,37,ATM Withdrawal,Desktop,Singapore,0
+TXN100809,168.84,21,ATM Withdrawal,Desktop,Mumbai,0
+TXN100810,10.11,44,ATM Withdrawal,ATM,Sydney,0
+TXN100811,28.37,49,Online,Mobile,Sydney,0
+TXN100812,98.22,66,Online,Mobile,Toronto,0
+TXN100813,23.74,50,Online,Mobile,Singapore,0
+TXN100814,83.51,73,Online,Mobile,Sydney,0
+TXN100815,127.9,72,Online,Tablet,Toronto,0
+TXN100816,72.92,24,ATM Withdrawal,Mobile,Dubai,0
+TXN100817,45.26,24,POS,Mobile,Toronto,0
+TXN100818,12.84,50,Online,Tablet,Toronto,0
+TXN100819,25.39,50,Online,Desktop,Singapore,0
+TXN100820,22.72,25,Bank Transfer,Desktop,London,0
+TXN100821,19.68,59,Online,Mobile,New York,0
+TXN100822,66.01,34,Online,Mobile,Dubai,0
+TXN100823,74.74,21,ATM Withdrawal,Mobile,Sydney,0
+TXN100824,74.73,26,POS,Tablet,Toronto,0
+TXN100825,417.83,74,Online,ATM,Dubai,0
+TXN100826,4.47,59,ATM Withdrawal,Desktop,New York,0
+TXN100827,23.49,74,Bank Transfer,Mobile,Singapore,0
+TXN100828,34.06,53,Online,ATM,London,0
+TXN100829,9.15,25,Online,Tablet,Mumbai,0
+TXN100830,68.66,24,Bank Transfer,Mobile,Singapore,0
+TXN100831,59.36,71,ATM Withdrawal,Desktop,Singapore,0
+TXN100832,26.92,29,POS,Mobile,London,0
+TXN100833,207.97,54,Bank Transfer,Mobile,Dubai,0
+TXN100834,7.76,65,Online,Mobile,Sydney,0
+TXN100835,15.18,43,POS,Tablet,New York,0
+TXN100836,425.25,47,POS,Tablet,Sydney,0
+TXN100837,58.89,48,Online,Tablet,Singapore,0
+TXN100838,13.15,73,ATM Withdrawal,Mobile,Mumbai,0
+TXN100839,10.81,21,Online,Desktop,Dubai,0
+TXN100840,66.91,72,Online,Desktop,Toronto,0
+TXN100841,235.37,52,Online,Mobile,Dubai,0
+TXN100842,32.42,36,Online,Tablet,Singapore,0
+TXN100843,81.43,51,Bank Transfer,Tablet,Mumbai,0
+TXN100844,197.81,55,POS,Desktop,London,0
+TXN100845,117.6,42,Online,Desktop,Singapore,0
+TXN100846,22.2,46,POS,Mobile,New York,0
+TXN100847,48.54,21,POS,Mobile,Dubai,0
+TXN100848,26.59,19,POS,Desktop,London,0
+TXN100849,68.28,70,POS,Desktop,Sydney,0
+TXN100850,32.71,33,Online,ATM,Mumbai,0
+TXN100851,14.84,41,Online,Tablet,Sydney,0
+TXN100852,39.02,73,Online,Tablet,New York,0
+TXN100853,76.52,36,Online,Desktop,New York,0
+TXN100854,12.54,70,Bank Transfer,Mobile,Mumbai,0
+TXN100855,78.68,54,Online,ATM,New York,0
+TXN100856,68.41,67,POS,Mobile,Dubai,0
+TXN100857,12.64,34,POS,Tablet,Singapore,0
+TXN100858,106.23,45,Bank Transfer,Mobile,Singapore,0
+TXN100859,70.47,46,Online,Tablet,New York,0
+TXN100860,271.58,51,Online,Desktop,Sydney,0
+TXN100861,40.77,34,POS,Tablet,Mumbai,0
+TXN100862,50.95,28,Online,Mobile,New York,0
+TXN100863,125.94,31,Bank Transfer,Desktop,Sydney,0
+TXN100864,57.65,30,ATM Withdrawal,Desktop,Singapore,0
+TXN100865,337.41,19,Bank Transfer,Tablet,Toronto,0
+TXN100866,7.46,44,POS,ATM,London,0
+TXN100867,402.11,67,Online,ATM,Sydney,0
+TXN100868,64.25,47,Online,Mobile,New York,0
+TXN100869,36.34,56,Online,Mobile,New York,0
+TXN100870,9.67,52,POS,Mobile,London,0
+TXN100871,28.8,27,Online,Desktop,London,0
+TXN100872,372.55,49,POS,Mobile,Toronto,1
+TXN100873,20.69,31,POS,Mobile,Toronto,0
+TXN100874,342.88,27,POS,Mobile,Dubai,0
+TXN100875,363.96,45,Bank Transfer,Mobile,Toronto,1
+TXN100876,111.19,49,ATM Withdrawal,Desktop,Sydney,0
+TXN100877,70.31,40,POS,Mobile,Toronto,0
+TXN100878,87.14,55,Online,Desktop,Dubai,0
+TXN100879,62.19,51,ATM Withdrawal,Desktop,Sydney,0
+TXN100880,114.81,42,Online,Desktop,Singapore,0
+TXN100881,41.01,45,Bank Transfer,Mobile,Singapore,0
+TXN100882,34.55,32,Online,Desktop,Sydney,0
+TXN100883,16.05,49,POS,Tablet,Singapore,0
+TXN100884,103.22,44,POS,Desktop,Singapore,0
+TXN100885,93.51,52,ATM Withdrawal,Desktop,New York,0
+TXN100886,15.64,54,Online,Tablet,Toronto,0
+TXN100887,12.72,59,Online,Tablet,Singapore,0
+TXN100888,49.23,44,ATM Withdrawal,Desktop,Singapore,0
+TXN100889,74.59,68,Online,Desktop,New York,0
+TXN100890,37.65,46,POS,Mobile,Singapore,0
+TXN100891,19.64,45,ATM Withdrawal,Mobile,Toronto,0
+TXN100892,21.7,59,ATM Withdrawal,Mobile,London,0
+TXN100893,65.14,74,ATM Withdrawal,Tablet,Singapore,0
+TXN100894,42.73,73,Online,Tablet,Singapore,0
+TXN100895,76.83,74,Online,Mobile,Singapore,0
+TXN100896,72.43,69,POS,Desktop,Singapore,0
+TXN100897,23.73,39,Bank Transfer,Mobile,Toronto,0
+TXN100898,64.08,61,POS,Mobile,Toronto,0
+TXN100899,168.21,57,Bank Transfer,Mobile,Toronto,1
+TXN100900,74.55,71,ATM Withdrawal,Desktop,Toronto,0
+TXN100901,51.5,53,Online,ATM,Dubai,0
+TXN100902,54.6,63,ATM Withdrawal,Tablet,Toronto,0
+TXN100903,223.07,66,Online,Mobile,New York,0
+TXN100904,26.44,53,Online,ATM,New York,0
+TXN100905,40.16,20,Online,Desktop,New York,0
+TXN100906,17.82,39,POS,Mobile,Toronto,0
+TXN100907,66.47,28,Online,Mobile,Dubai,0
+TXN100908,19.48,22,Online,Mobile,Sydney,0
+TXN100909,158.2,18,POS,Desktop,Singapore,0
+TXN100910,229.93,21,POS,Mobile,Dubai,0
+TXN100911,212.56,28,POS,Desktop,Singapore,0
+TXN100912,44.46,54,Bank Transfer,Mobile,Dubai,0
+TXN100913,114.37,63,Online,Tablet,London,0
+TXN100914,13.29,38,POS,Mobile,Mumbai,0
+TXN100915,19.3,44,Online,Tablet,Dubai,0
+TXN100916,50.01,53,Bank Transfer,Desktop,London,0
+TXN100917,227.88,61,POS,Mobile,Dubai,1
+TXN100918,76.27,72,Online,Mobile,Toronto,0
+TXN100919,86.21,43,ATM Withdrawal,Mobile,New York,0
+TXN100920,52.0,60,Online,Desktop,Singapore,0
+TXN100921,101.09,68,POS,Mobile,Toronto,0
+TXN100922,66.87,23,Bank Transfer,Mobile,Toronto,0
+TXN100923,31.2,23,POS,Mobile,Singapore,0
+TXN100924,305.14,30,Online,Desktop,New York,0
+TXN100925,58.52,32,Bank Transfer,Mobile,Sydney,0
+TXN100926,25.96,33,POS,Desktop,Toronto,0
+TXN100927,49.48,60,Online,Mobile,Sydney,0
+TXN100928,100.36,23,Online,Mobile,London,0
+TXN100929,23.05,52,ATM Withdrawal,Mobile,Dubai,0
+TXN100930,134.31,70,Online,Mobile,Dubai,0
+TXN100931,6.94,21,POS,Mobile,New York,0
+TXN100932,18.29,47,POS,Mobile,London,0
+TXN100933,49.69,65,POS,Tablet,Sydney,0
+TXN100934,168.55,63,Online,Mobile,Mumbai,0
+TXN100935,40.59,38,ATM Withdrawal,Mobile,Toronto,0
+TXN100936,91.42,63,Online,Mobile,Dubai,0
+TXN100937,92.22,44,POS,Desktop,Singapore,0
+TXN100938,442.82,68,Online,Tablet,New York,0
+TXN100939,138.6,47,Online,Desktop,Toronto,0
+TXN100940,366.89,34,Online,Tablet,Toronto,0
+TXN100941,1452.77,44,ATM Withdrawal,Mobile,Toronto,1
+TXN100942,101.01,28,POS,Desktop,New York,0
+TXN100943,71.75,69,POS,Desktop,London,0
+TXN100944,51.58,65,Online,Desktop,Dubai,0
+TXN100945,98.85,59,Online,Mobile,Singapore,1
+TXN100946,2.82,68,POS,Desktop,Mumbai,0
+TXN100947,260.2,50,Online,Mobile,Toronto,0
+TXN100948,12.59,25,Bank Transfer,Mobile,Singapore,0
+TXN100949,46.54,70,POS,Desktop,Dubai,0
+TXN100950,7.7,58,Online,Mobile,Dubai,0
+TXN100951,57.46,22,POS,Mobile,Singapore,0
+TXN100952,120.4,74,Online,Mobile,New York,0
+TXN100953,284.56,45,ATM Withdrawal,Mobile,New York,0
+TXN100954,329.49,41,Online,Mobile,Dubai,0
+TXN100955,44.65,48,Online,Desktop,Dubai,0
+TXN100956,38.89,18,ATM Withdrawal,Mobile,Sydney,0
+TXN100957,102.01,62,ATM Withdrawal,Tablet,New York,0
+TXN100958,11.46,47,POS,Mobile,New York,0
+TXN100959,22.97,22,Online,Tablet,Sydney,0
+TXN100960,101.41,38,ATM Withdrawal,Desktop,Singapore,0
+TXN100961,50.87,44,POS,Desktop,London,0
+TXN100962,76.45,25,Online,Mobile,London,0
+TXN100963,91.5,47,POS,Mobile,Sydney,0
+TXN100964,307.57,34,ATM Withdrawal,Tablet,Singapore,0
+TXN100965,27.63,30,POS,Desktop,New York,0
+TXN100966,84.69,56,ATM Withdrawal,Tablet,Sydney,0
+TXN100967,53.2,49,POS,Desktop,Singapore,0
+TXN100968,20.8,35,Bank Transfer,Desktop,Singapore,0
+TXN100969,25.46,43,ATM Withdrawal,Mobile,London,0
+TXN100970,130.08,70,Online,Mobile,New York,1
+TXN100971,45.63,54,ATM Withdrawal,ATM,New York,0
+TXN100972,24.68,60,Bank Transfer,ATM,Sydney,0
+TXN100973,164.02,20,Online,Desktop,Sydney,0
+TXN100974,115.52,55,Online,Desktop,Sydney,0
+TXN100975,78.77,71,Bank Transfer,Mobile,London,0
+TXN100976,82.59,48,POS,Desktop,Singapore,0
+TXN100977,293.48,25,Online,Mobile,Toronto,0
+TXN100978,97.77,28,Bank Transfer,Desktop,New York,0
+TXN100979,53.65,18,Online,Mobile,Dubai,0
+TXN100980,36.97,71,Online,Mobile,New York,0
+TXN100981,38.77,20,Online,ATM,Mumbai,0
+TXN100982,19.93,69,POS,Mobile,London,0
+TXN100983,22.08,47,POS,Tablet,London,0
+TXN100984,128.61,20,POS,Mobile,New York,0
+TXN100985,55.28,72,Online,Desktop,Toronto,0
+TXN100986,76.18,37,POS,Mobile,New York,0
+TXN100987,247.45,27,ATM Withdrawal,Desktop,Dubai,0
+TXN100988,39.34,57,ATM Withdrawal,Mobile,New York,0
+TXN100989,40.72,27,Online,Mobile,New York,0
+TXN100990,65.32,55,ATM Withdrawal,Desktop,New York,0
+TXN100991,24.37,39,Online,Mobile,London,0
+TXN100992,45.38,65,POS,Desktop,Mumbai,0
+TXN100993,166.16,31,Online,Mobile,Toronto,0
+TXN100994,17.58,20,Online,Tablet,New York,0
+TXN100995,21.11,40,ATM Withdrawal,Mobile,Sydney,0
+TXN100996,26.53,32,Online,Desktop,Singapore,0
+TXN100997,20.45,38,POS,ATM,Sydney,0
+TXN100998,29.81,50,Online,Mobile,Mumbai,0
+TXN100999,38.23,36,Bank Transfer,Mobile,Toronto,0
